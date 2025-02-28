@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\projects"
   ],
-  "SelectedNode": "\\project_opengl.html",
+  "SelectedNode": "\\style.css",
   "PreviewInSolutionExplorer": false
 }
