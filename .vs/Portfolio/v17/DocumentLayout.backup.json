@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\GitHub\\Portfolio\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Portfolio\\projects\\mealsuggester.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projects\\mealsuggester.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Portfolio\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -11,20 +15,36 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Portfolio\\projects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Portfolio\\projects\\battleship.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projects\\battleship.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Portfolio\\main.3f6952e4.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.3f6952e4.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Portfolio\\projects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Portfolio\\projects\\easybank.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projects\\easybank.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Portfolio\\projects\\medlab.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projects\\medlab.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Portfolio\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Portfolio\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Portfolio\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Portfolio\\main.3f6952e4.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.3f6952e4.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,21 +58,81 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "projects.html",
               "DocumentMoniker": "D:\\GitHub\\Portfolio\\projects.html",
               "RelativeDocumentMoniker": "projects.html",
               "ToolTip": "D:\\GitHub\\Portfolio\\projects.html",
               "RelativeToolTip": "projects.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHcAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-02-26T05:52:58.488Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "battleship.html",
+              "DocumentMoniker": "D:\\GitHub\\Portfolio\\projects\\battleship.html",
+              "RelativeDocumentMoniker": "projects\\battleship.html",
+              "ToolTip": "D:\\GitHub\\Portfolio\\projects\\battleship.html",
+              "RelativeToolTip": "projects\\battleship.html",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-28T11:29:39.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mealsuggester.html",
+              "DocumentMoniker": "D:\\GitHub\\Portfolio\\projects\\mealsuggester.html",
+              "RelativeDocumentMoniker": "projects\\mealsuggester.html",
+              "ToolTip": "D:\\GitHub\\Portfolio\\projects\\mealsuggester.html",
+              "RelativeToolTip": "projects\\mealsuggester.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-28T11:11:02.607Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "medlab.html",
+              "DocumentMoniker": "D:\\GitHub\\Portfolio\\projects\\medlab.html",
+              "RelativeDocumentMoniker": "projects\\medlab.html",
+              "ToolTip": "D:\\GitHub\\Portfolio\\projects\\medlab.html",
+              "RelativeToolTip": "projects\\medlab.html",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-28T11:10:05.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "contact.html",
+              "DocumentMoniker": "D:\\GitHub\\Portfolio\\contact.html",
+              "RelativeDocumentMoniker": "contact.html",
+              "ToolTip": "D:\\GitHub\\Portfolio\\contact.html",
+              "RelativeToolTip": "contact.html",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-28T11:05:36.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "about.html",
+              "DocumentMoniker": "D:\\GitHub\\Portfolio\\about.html",
+              "RelativeDocumentMoniker": "about.html",
+              "ToolTip": "D:\\GitHub\\Portfolio\\about.html",
+              "RelativeToolTip": "about.html",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-28T11:05:24.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "script.js",
               "DocumentMoniker": "D:\\GitHub\\Portfolio\\script.js",
               "RelativeDocumentMoniker": "script.js",
@@ -60,25 +140,23 @@
               "RelativeToolTip": "script.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-28T08:32:17.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T08:32:17.153Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "style.css",
               "DocumentMoniker": "D:\\GitHub\\Portfolio\\style.css",
               "RelativeDocumentMoniker": "style.css",
               "ToolTip": "D:\\GitHub\\Portfolio\\style.css",
               "RelativeToolTip": "style.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-28T08:23:49.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T08:23:49.364Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "main.3f6952e4.css",
               "DocumentMoniker": "D:\\GitHub\\Portfolio\\main.3f6952e4.css",
               "RelativeDocumentMoniker": "main.3f6952e4.css",
@@ -86,34 +164,31 @@
               "RelativeToolTip": "main.3f6952e4.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-28T05:56:00.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T05:56:00.014Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "easybank.html",
               "DocumentMoniker": "D:\\GitHub\\Portfolio\\projects\\easybank.html",
               "RelativeDocumentMoniker": "projects\\easybank.html",
               "ToolTip": "D:\\GitHub\\Portfolio\\projects\\easybank.html",
               "RelativeToolTip": "projects\\easybank.html",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAE0AAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-02-28T05:35:52.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T05:35:52.586Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "index.html",
               "DocumentMoniker": "D:\\GitHub\\Portfolio\\index.html",
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "D:\\GitHub\\Portfolio\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-02-26T05:52:54.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T05:52:54.442Z"
             }
           ]
         }
