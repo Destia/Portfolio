@@ -1,0 +1,4 @@
+Create a template across all pages to reduce repetetive code
+    -- Masterpages, .NET etc
+
+Remove top right nav bar and replace with collapsable side-menu for each project
